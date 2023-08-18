@@ -1,0 +1,21 @@
+SOFTWARE TESTINGS
+
+
+What is Software Testing?
+SDLC - Software development life cycle.
+Test Attributes
+Test Plans
+
+
+1.	What is Software Testing?
+
+Software testing is the process of analyzing a software item in order to detect the discrepancies between the actual and expected conditions - that is to detect errors/bugs/defects in a software and to estimate the software item features.[ANSI/IEEE 1059 standard].
+
+Error or mistake: a human action that produces an incorrect result.
+
+Defect, fault or bug: a flaw in code, software, system or document that can cause it to fail to perform its required function (e.g. incorrect statement or data definition).
+
+Failure: actual deviation of the component or system from its expected delivery, service or result.
+
+
+Testing goes beyond just executing or reviewing codes, it involves a lot of processes such as planning, monitoring & control, analysis, design, implementation, execution and test completion - these are the test process and make up the software development life cycle.
